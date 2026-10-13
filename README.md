@@ -15,7 +15,7 @@ Seja bem-vindo(a) ao meu portfólio web! Este projeto foi desenvolvido para apre
 ## 📌 Destaques do Portfólio
 
 * **Design Responsivo & Dark Mode:** Interface moderna adaptada para visualização em diferentes dispositivos.
-* **Projetos Principais:** Links diretos para os repositórios de sistemas como *Bytefood*, *Nivalis*, *Dotfy* e *Supermarket BZ*.
+* **Projetos Principais:** Links diretos para os repositórios de sistemas como *Equalnet*,*Bytefood*, *Nivalis*, *Dotfy* e *Supermarket BZ*.
 * **Acessibilidade & Contato:** Links diretos para LinkedIn e E-mail integrados no rodapé.
 
 ---
